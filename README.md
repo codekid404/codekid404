@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/9gxUxt7)](https://github.com/codekid404)
+[![MasterHead](https://i.imgur.com/fSJcrYi.gif)](https://github.com/codekid404)
 
 <h1 align="center">Hi 👋, I'm Roy Ajikumar AKA Codekid404</h1>
 <h3 align="center">An enthusiastic RPA & Cloud Automation developer with a keen interest in Cyber Security, based in India.</h3>
